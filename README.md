@@ -1,6 +1,4 @@
-# RACE-CAR-CONTROLLED-
-BY A ARDUINO AND L241D
-THE CODE
+# RACE-CAR-CONTROLLED-BY ARDUINO
 void setup() {
   // put your setup code here, to run once:
 pinMode(6,OUTPUT);
